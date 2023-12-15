@@ -8,7 +8,6 @@
 import XCTest
 
 final class MenuBarTestUITestsLaunchTests: XCTestCase {
-
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
     }
